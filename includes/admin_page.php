@@ -8,7 +8,6 @@ function mapply_settings_page() {
   $image2   = WP_PLUGIN_URL . '/mapply/images/logo2.png';
   $nav_bg   = WP_PLUGIN_URL . '/mapply/images/banner-bg.jpg';
   $styles   = WP_PLUGIN_URL . '/mapply/css/mapply_styles.css';
-  $semantic = WP_PLUGIN_URL . 'mapply/css/semantic.css';
 
   $api         = get_mapply_api();
   $gapi        = get_google_api();
@@ -16,7 +15,6 @@ function mapply_settings_page() {
 
 ?>
 
-<link rel="stylesheet" type="text/css" href="<?php echo $semantic ?>"/>
 <link rel="stylesheet" type="text/css" href="<?php echo $styles ?>"/>
 
 <div class="navbar" style="background: url('<?php echo $nav_bg ?>') center center #757994 no-repeat;">
