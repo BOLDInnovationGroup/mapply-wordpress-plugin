@@ -18,10 +18,6 @@ add_shortcode("mapply", "mapply_handler");
 
 // Add actions
 add_action('admin_menu', 'mapply_create_menu');
-add_action( 'wp_mapply_api', 'get_mapply_api' );
-add_action( 'wp_google_gapi', 'get_google_api' );
-add_action( 'wp_set_google_gapi', 'save_google_api' );
-add_action( 'wp_set_mapply_gapi', 'save_mapply_api' );
 
 // Process the apps
 add_action( 'admin_post_mapply_api_keys', 'process_mapply_keys' );
