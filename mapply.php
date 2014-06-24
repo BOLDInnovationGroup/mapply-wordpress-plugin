@@ -64,6 +64,16 @@ function get_table_name(){
 }
 
 // End of Install functions
+
+// Uninstall
+function mapply_uninstall() {
+  global $wpdb;
+  $table_name = get_table_name();
+  $wpdb->query( "DROP TABLE IF EXISTS $table_name" );
+}
+register_uninstall_hook( __FILE__, 'mapply_uninstall' );
+// End of Uninstall
+
 // The function that actually handles replacing the short code
 function mapply_handler($incomingfrompost) {
 
