@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Mapply
-Plugin URI: https://github.com/BOLDInnovationGroup/Mapply-WordPress-Plugin
+Plugin URI: http://wordpress.org/plugins/mapply/
 Description: Dislay a map of your stores on your WordPress site!
-Version: 1.0
+Version: 1.2
 Author: Mapply
 Author URI: http://www.mapply.net
 */
