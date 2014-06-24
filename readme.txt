@@ -41,10 +41,28 @@ This plugin is free with your Mapply subscription.
 
 == Changelog ==
 
+= 1.2 =
+* Remove database when user uninstalls
+* Remove api prefix if user adds it
+* Added success message
+* removed unused functions
+
+= 1.1 =
+* Fixed some styling issues
+
 = 1.0 =
 * This is the first version of Mapply for WordPress
 
 == Upgrade Notice ==
+
+= 1.2 =
+* Remove database when user uninstalls
+* Remove api prefix if user adds it
+* Added success message
+* removed unused functions
+
+= 1.1 =
+* Fixed some styling issues
 
 = 1.0 =
 This is the firt version of Mapply for WordPress
