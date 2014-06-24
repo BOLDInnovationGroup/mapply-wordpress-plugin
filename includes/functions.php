@@ -107,7 +107,7 @@ function process_mapply_keys(){
     }
 
     // redirect
-    wp_redirect(admin_url( 'admin.php?page=mapply/mapply.php'));
+    wp_redirect(admin_url( 'admin.php?page=mapply/mapply.php&settings-saved'));
     exit;
   }
 }

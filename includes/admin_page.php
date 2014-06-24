@@ -33,6 +33,10 @@ function mapply_settings_page() {
   <p><b>Step 3</b> - Once you have all of your <a href="https://app.mapply.net/admin.php">stores setup</a> in your Mapply account, you can insert your map on any page by using the <b>[mapply]</b> shortcode.</p>
 </div>
 
+<?php if ( isset( $_GET[ 'settings-saved' ] ) ): ?>
+<div class="updated"><p>Settings updated successfully.</p></div>
+<?php endif ?>
+
 <form method="post" action="admin-post.php">
 
     <input type="hidden" name="action" value="mapply_api_keys" />
