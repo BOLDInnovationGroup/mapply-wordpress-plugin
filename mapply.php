@@ -91,6 +91,12 @@ function build_script_text(){
   $mapply_link = get_mapply_refferal_url();
   $display_ref = get_display_ref();
 
+  $entered_api_key_starts_with_prefix = 0 === strpos( $api, 'store_locator.' );
+
+  if ( $entered_api_key_starts_with_prefix ) {
+    $api = str_replace( 'store_locator.', '', $api );
+  }
+
   $script = '<script id="locator" type="text/javascript" src="//app.mapply.net/front-end/js/locator.js" data-api-key="store_locator.';
   $script .= $api;
   $script .= '" data-path="//app.mapply.net/front-end/" data-maps-api-key="';
