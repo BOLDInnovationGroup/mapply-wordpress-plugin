@@ -4,7 +4,7 @@
 Plugin Name: Mapply
 Plugin URI: http://wordpress.org/plugins/mapply/
 Description: Dislay a map of your stores on your WordPress site!
-Version: 1.2
+Version: 1.2.1
 Author: Mapply
 Author URI: http://www.mapply.net
 */

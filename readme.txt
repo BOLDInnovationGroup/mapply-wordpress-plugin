@@ -41,6 +41,10 @@ This plugin is free with your Mapply subscription.
 
 == Changelog ==
 
+= 1.2.1 =
+* Removed the check for the API prefix
+* altered app to require the prefix on save
+
 = 1.2 =
 * Remove database when user uninstalls
 * Remove api prefix if user adds it
@@ -54,6 +58,9 @@ This plugin is free with your Mapply subscription.
 * This is the first version of Mapply for WordPress
 
 == Upgrade Notice ==
+
+= 1.2.1 =
+* Removed check for API prefix. The prefix is now required when the key is saved.
 
 = 1.2 =
 * Remove database when user uninstalls
