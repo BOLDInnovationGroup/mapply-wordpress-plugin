@@ -11,24 +11,20 @@ Mapply is a service that allows you to plot your physical store location on a ma
 
 == Description ==
 
-Store Locator Software by Mapply	{#welcome}
-=====================
+= Store Locator Software by Mapply =
 
 
 Mapply is a powerful and simple app that allows you to easily embed a Store Locator or Dealer Locator tool on your own website to help your customers find you! It is free to try for 30 days and can be setup in under 10 minutes by copying & pasting a single line of code!
 
 Mapply is fully customizable - Customize the look and feel of your store locator with easy to use settings. Font & button colors, drop pin color, map size, original map location, and much more. You can even customize all of the descriptions and text to exactly what you want, or to any language!
 
-----------
 
-
-The Power of Google Maps
----------
+= The Power of Google Maps = 
 
 This app uses the Google Maps API. Why? It just works better! It produces better search results, driving directions, uses the same search tool Google Maps does, supports simple search terms like city and street with misspellings and much more. Google is #1 map solution in the world for a reason!
 
-★★★★★ FIVE STAR Customer Reviews
----------
+= ★★★★★ FIVE STAR Customer Reviews = 
+
 ★★★★★ "Tried them all and this is HANDS DOWN the best Store Locator app!! Works perfectly and looks great! If you have a Mapply account this is the easiest way to embed a store locator on your WordPress site, I've tried a few and this seems to be the best one by far.
 
 I had to email them too to ask a question and their support was fast.
@@ -44,8 +40,8 @@ I received quick responses from the Support team and I haven't had that kind of 
 ★★★★★ "This plugin does what it says it will do. It just helps me get people in my door. The rest is on me! It was easy to install, even for an old guy who is not super good with computers, like me! If you have a physical store, you should get this plugin. It is good."
 - SuperJames
 
-Here's just a few of the amazing features:
------------
+=  Here's just a few of the amazing features: = 
+
 - Add Unlimited number of stores or dealer locations
 - Drag and drop the pins to your exact location
 - Create clickable search filters for your stores with options like "Open 24 Hours" - or "Wheelchair Accessible" and more!
@@ -59,16 +55,15 @@ Here's just a few of the amazing features:
 - Customize your map size, where geographically it starts, and from what zoom level!
 - Add stores one at a time, or bulk import them using our wizard.
 
-New Features Just Added!
----------
+= New Features Just Added! = 
+
 - Create customized groups for your stores or dealers to rank them or display them differently
 - Mobile Friendly! Works on any device with no changes... It just works :-)
 - Assign unique colors to the different groups so customers can easily see the different types of stores on the map
 - Add expiration to stores or dealers if you want to feature them for a period of time
 - Bulk Export all our stores in neat and tidy CSV file
 
-And Finally... the most power feature of all!
-----------
+= And Finally... the most power feature of all! = 
 
 See a HEAT-MAP Report of where your customers are searching for you or your products! This will give you priceless information about where there is demand for your brand, product or store! This is a premium feature available on all paid plans.
 
